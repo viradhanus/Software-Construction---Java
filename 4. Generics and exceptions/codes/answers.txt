@@ -1,0 +1,10 @@
+1)N number of comparisons
+
+2)The number of operations will be equal to the number of not null elements in the set.
+  Yes, it changes with the number of elements in the set since when the first element in the set is removed, rest of the elements will be moved decreasing their index by one and making the last element a null. 
+
+3)Yes. We can use algorithems to sort the set at the first place and remove the duplicate elements.
+
+4)Option 1 is more efficient, comparing to Option 2 since in option 2 extra not operator is used.
+
+5)Yes. ( @SuppressWarnings("unchecked") )
